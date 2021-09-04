@@ -1,3 +1,1 @@
-Uniquify Assessment
-
-My solution to the coding challenge.
+My solution to the coding assessment by Uniquify.
